@@ -18,11 +18,11 @@ same version to :
 and if i've got some time to convert in
 
 - Oracle 
-- Postgree
+- Postgres
 - Firebird 
 
 
 so people can switch with easy from one way of scripting
 to another one by comparing them "and learning though sample"
 
-so volunters are welcomed
+so volunters are welcome
